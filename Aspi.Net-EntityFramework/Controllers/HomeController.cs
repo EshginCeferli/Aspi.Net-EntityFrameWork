@@ -23,12 +23,15 @@ namespace Aspi.Net_EntityFramework.Controllers
         public IActionResult Index()
         {
             List<Slider> sliders = _context.Sliders.ToList();
-            SliderDetail sliderDetail = _context.SliderDetails.FirstOrDefault();
+            List<SliderDetail> sliderDetails = _context.SliderDetails.ToList();
+            List<Work> works = _context.Works.ToList();
+            //SliderDetail sliderDetail = _context.SliderDetails.FirstOrDefault();
 
             HomeVM model = new HomeVM
             {
                 Sliders = sliders,
-                SliderDetail = sliderDetail
+                SliderDetails = sliderDetails,
+                Works = works
             };
             return View(model);
         }      

@@ -53,6 +53,27 @@ namespace Aspi.Net_EntityFramework.Migrations
 
                     b.ToTable("SliderDetails");
                 });
+
+            modelBuilder.Entity("Aspi.Net_EntityFramework.Models.Work", b =>
+                {
+                    b.Property<int>("Id")
+                        .ValueGeneratedOnAdd()
+                        .HasColumnType("int")
+                        .HasAnnotation("SqlServer:ValueGenerationStrategy", SqlServerValueGenerationStrategy.IdentityColumn);
+
+                    b.Property<string>("Description")
+                        .HasColumnType("nvarchar(max)");
+
+                    b.Property<string>("Header")
+                        .HasColumnType("nvarchar(max)");
+
+                    b.Property<string>("Image")
+                        .HasColumnType("nvarchar(max)");
+
+                    b.HasKey("Id");
+
+                    b.ToTable("Works");
+                });
 #pragma warning restore 612, 618
         }
     }

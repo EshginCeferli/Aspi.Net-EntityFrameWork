@@ -9,6 +9,7 @@ namespace Aspi.Net_EntityFramework.ViewModels
     public class HomeVM
     {
         public List<Slider> Sliders{ get; set; }
-        public SliderDetail SliderDetail { get; set; }
+        public List<SliderDetail> SliderDetails { get; set; }
+        public List<Work> Works { get; set; }
     }
 }

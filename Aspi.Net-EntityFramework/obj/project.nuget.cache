@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "7XW/7RplCYtWm3IKYkYODqYv8TkDT1tSDWeavOzySeffFYDoQytzseam94NmbuRT1VENFV/Hjbu/qaqyZ3eRlg==",
+  "dgSpecHash": "BgvpFnq0xBv0GXQM48fFAMxQOrFAJN0LR8kUKChhFSbbhFRLfNuIoIhaIyFf6rj2RtrJV+Xvlb8uAQtplaZlTg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\ESQIN\\source\\repos\\Aspi.Net-EntityFramework\\Aspi.Net-EntityFramework\\Aspi.Net-EntityFramework.csproj",
+  "projectFilePath": "C:\\Users\\ESQIN\\OneDrive\\İş masası\\Aspi.Net\\Asp.Net-EntityFrameWork\\Aspi.Net-EntityFramework\\Aspi.Net-EntityFramework\\Aspi.Net-EntityFramework.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\ESQIN\\.nuget\\packages\\microsoft.bcl.asyncinterfaces\\1.1.1\\microsoft.bcl.asyncinterfaces.1.1.1.nupkg.sha512",
     "C:\\Users\\ESQIN\\.nuget\\packages\\microsoft.bcl.hashcode\\1.1.1\\microsoft.bcl.hashcode.1.1.1.nupkg.sha512",

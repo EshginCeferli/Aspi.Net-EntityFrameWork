@@ -5730,11 +5730,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\ESQIN\\source\\repos\\Aspi.Net-EntityFramework\\Aspi.Net-EntityFramework\\Aspi.Net-EntityFramework.csproj",
+      "projectUniqueName": "C:\\Users\\ESQIN\\OneDrive\\İş masası\\Aspi.Net\\Asp.Net-EntityFrameWork\\Aspi.Net-EntityFramework\\Aspi.Net-EntityFramework\\Aspi.Net-EntityFramework.csproj",
       "projectName": "Aspi.Net-EntityFramework",
-      "projectPath": "C:\\Users\\ESQIN\\source\\repos\\Aspi.Net-EntityFramework\\Aspi.Net-EntityFramework\\Aspi.Net-EntityFramework.csproj",
+      "projectPath": "C:\\Users\\ESQIN\\OneDrive\\İş masası\\Aspi.Net\\Asp.Net-EntityFrameWork\\Aspi.Net-EntityFramework\\Aspi.Net-EntityFramework\\Aspi.Net-EntityFramework.csproj",
       "packagesPath": "C:\\Users\\ESQIN\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\ESQIN\\source\\repos\\Aspi.Net-EntityFramework\\Aspi.Net-EntityFramework\\obj\\",
+      "outputPath": "C:\\Users\\ESQIN\\OneDrive\\İş masası\\Aspi.Net\\Asp.Net-EntityFrameWork\\Aspi.Net-EntityFramework\\Aspi.Net-EntityFramework\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

@@ -14,5 +14,6 @@ namespace Aspi.Net_EntityFramework.Data
         }
         public DbSet<Slider> Sliders { get; set; }
         public DbSet<SliderDetail> SliderDetails { get; set; }
+        public DbSet<Work> Works { get; set; }
     }
 }
